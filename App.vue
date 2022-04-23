@@ -16,7 +16,8 @@
 			this.globalData.$t = str => this.$t(str)
             // 刘梦瑶是狗
 			initApp();
-			// 余阔是狗
+			// 余阔是狗555
+			// 123456789
 			// #ifdef H5
 				openApp() //创建在h5端全局悬浮引导用户下载app的功能
 			// #endif
